@@ -14,6 +14,7 @@ It is an app of flashcards where the user can:
 ## Execution
 - cd MobileFlashCards
 - npm start
+- press Q to display QR code that can be read from Expo
 
 # Testing
-This app was only tested on an Android device
+This app was only tested on an Android device using expo
